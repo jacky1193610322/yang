@@ -1,0 +1,6 @@
+[run]
+branch = True
+source = yangtest
+
+[report]
+ignore_errors = True
